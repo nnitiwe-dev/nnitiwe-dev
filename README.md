@@ -10,11 +10,8 @@ I build **scalable data pipelines, AI-powered systems, and ML solutions** that s
 
 ### 🔗 Connect with Me  
 
-[![Website](https://img.shields.io/badge/🌐%20Website-nnitiwe.io-blue?style=for-the-badge&logo=google-chrome)](https://www.nnitiwe.io)  
-[![Substack](https://img.shields.io/badge/✍️%20Blog-Nnitiwe%20AI%20Blog-orange?style=for-the-badge&logo=substack)](https://blog.nnitiwe.io)  
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Samuel%20Nnitiwe%20Theophilus-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/samuelnnitiwetheophilus)  
-[![Twitter](https://img.shields.io/badge/🐦%20Twitter-@nnitiwe-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/nnitiwe)  
-[![GitHub](https://img.shields.io/badge/👨‍💻%20GitHub-nnitiwe--dev-black?style=for-the-badge&logo=github)](https://github.com/nnitiwe-dev)  
+[![Website](https://img.shields.io/badge/🌐%20Website-nnitiwe.io-blue?style=for-the-badge&logo=google-chrome)](https://www.nnitiwe.io) [![Substack](https://img.shields.io/badge/✍️%20Blog-Nnitiwe%20AI%20Blog-orange?style=for-the-badge&logo=substack)](https://blog.nnitiwe.io) [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Samuel%20Nnitiwe%20Theophilus-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samuelnnitiwetheophilus) [![Twitter](https://img.shields.io/badge/🐦%20Twitter-@nnitiwe-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/nnitiwe) [![GitHub](https://img.shields.io/badge/👨‍💻%20GitHub-nnitiwe--dev-black?style=for-the-badge&logo=github)](https://github.com/nnitiwe-dev)
+
 
 ---
 
@@ -28,7 +25,7 @@ I build **scalable data pipelines, AI-powered systems, and ML solutions** that s
 
 ### 📊 GitHub Stats  
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnitiwe-dev&show_icons=true&theme=buefy&hide=prs,issues,contribs) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnitiwe-dev&layout=compact&theme=buefy) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnitiwe-dev&show_icons=true&theme=buefy&hide=issues,contribs) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnitiwe-dev&layout=compact&theme=buefy) |
 | --- | --- |
 
 
