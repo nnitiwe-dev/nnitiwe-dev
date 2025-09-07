@@ -20,7 +20,7 @@ I build **scalable data pipelines, AI-powered systems, and ML solutions** that s
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 Public GitHub Stats  
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnitiwe-dev&show_icons=true&theme=buefy&hide=issues,contribs) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnitiwe-dev&layout=compact&theme=buefy) |
 | --- | --- |
