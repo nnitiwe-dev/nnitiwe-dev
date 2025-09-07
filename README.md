@@ -30,7 +30,6 @@ I build **scalable data pipelines, AI-powered systems, and ML solutions** that s
 
 ### 🌍 Highlights  
 - 📝 Author of [**Nnitiwe’s AI Blog**](https://blog.nnitiwe.io), read in **62 countries**  
-- 📖 Published research with **IEEE** and contributed to **open-source AI frameworks**  
 - 🧩 Contributor to [Omdenalore](https://medium.com/data-science/building-the-worlds-largest-ai4good-python-library-ad0256c35271) and [**Ivy**](https://github.com/ivy-llc/ivy) — deep learning frameworks.  
 - 🤝 Active participant in open-source AI/ML and data science tooling projects  
 
