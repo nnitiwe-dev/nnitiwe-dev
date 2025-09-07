@@ -1,8 +1,5 @@
 <p align="center"><a href="https://nnitiwe.io" target="_blank"><img width="80%" alt="Hello,its Nnitiwe. I am an AI Engineer!" src="./assets/gh-readme-header.png" /></a></p>
 
-# Hi there 👋, I'm Samuel Nnitiwe Theophilus  
-
-🚀 **Data & AI Engineer | ML Enthusiast | Open Source Contributor**  
 
 I build **scalable data pipelines, AI-powered systems, and ML solutions** that solve real-world problems.  
 
