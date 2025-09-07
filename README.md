@@ -10,7 +10,7 @@ I build **scalable data pipelines, AI-powered systems, and ML solutions** that s
 
 ### 🔗 Connect with Me  
 
-[![Website](https://img.shields.io/badge/🌐%20Website-nnitiwe.io-blue?style=for-the-badge&logo=google-chrome)](https://www.nnitiwe.io) [![Substack](https://img.shields.io/badge/✍️%20Blog-Nnitiwe%20AI%20Blog-orange?style=for-the-badge&logo=substack)](https://blog.nnitiwe.io) [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Samuel%20Nnitiwe%20Theophilus-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samuelnnitiwetheophilus) [![Twitter](https://img.shields.io/badge/🐦%20Twitter-@nnitiwe-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/nnitiwe) [![GitHub](https://img.shields.io/badge/👨‍💻%20GitHub-nnitiwe--dev-black?style=for-the-badge&logo=github)](https://github.com/nnitiwe-dev)
+[![Website](https://img.shields.io/badge/Website-nnitiwe.io-blue?style=for-the-badge&logo=google-chrome)](https://www.nnitiwe.io) [![Substack](https://img.shields.io/badge/Blog-Nnitiwe%20AI%20Blog-orange?style=for-the-badge&logo=substack)](https://blog.nnitiwe.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20T.-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samuelnnitiwetheophilus) [![GitHub](https://img.shields.io/badge/GitHub-nnitiwe--dev-black?style=for-the-badge&logo=github)](https://github.com/nnitiwe-dev)
 
 
 ---
